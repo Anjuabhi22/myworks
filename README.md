@@ -1,2 +1,2 @@
 # myworks
-It is a complete solution for the birthday paradox using Pythons
+It is a complete solution for the birthday paradox using Python
